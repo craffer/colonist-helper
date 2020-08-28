@@ -3,3 +3,6 @@
 
 # JS
 node_modules/
+
+# Webpack
+dist/js
