@@ -1,7 +1,7 @@
 {
   "name": "Colonist Tracker",
   "version": "0.1",
-  "permissions": ["declarativeContent", "storage"],
+  "permissions": ["activeTab", "declarativeContent", "storage"],
   "background": {
     "scripts": ["src/js/background.js"],
     "persistent": false
