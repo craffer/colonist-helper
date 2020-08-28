@@ -7,7 +7,7 @@
     "persistent": false
   },
   "page_action": {
-    "default_popup": "popup.html",
+    "default_popup": "static/popup.html",
     "default_icon": {
       "16": "static/images/get_started16.png",
       "32": "static/images/get_started32.png",
